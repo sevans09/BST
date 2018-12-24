@@ -1,0 +1,56 @@
+Binary Search Trees Project
+
+*Acknowledgements*
+I talked through contains and remove functions with Ryan Weinstein and 
+Amber Chong.
+Main.cpp and print pretty files were given by the Tufts University comp sci
+department.
+
+*Purpose*
+The purpose of this program is to create a binary search tree and run 
+several functions on it that can modify it and return information about
+the tree.
+
+*Files provided*
+The files provided were BinarySearchTree.cpp, BinarySearchTree.h,
+pretty_print.cpp, README, and Makefile.
+
+main.cpp - main program
+Calls functions to create and run program.
+
+Makefile - file to compile and provide homework
+This file contains all directives needed to compile, run, and provide 
+this lab. It has targets, their dependencies, and commands to prepare
+the targets.
+
+BinarySearchTree.cpp - BST class file
+This file constructs a BST to use in this program. It has all function definitions
+ including wrapper and private functions that create the tree 
+as insert and remove given values from it, and gets height and node count
+of the tree, as well as more information.
+
+BinarySearchTree.h - BST header file
+Header file that outlines public and private variables for the
+BST class.
+
+pretty_print.cpp - pretty print class file
+This file contains functions to print the BST out nicely.
+
+*How to compile and run*
+To compile, type make.
+To run the program, type ./hw4.
+
+*Outline of data structures and algorithms*
+In this assignment, I used a binary search tree and various traversal
+methods to move through the tree, including pre-order and post-order.
+It was easy to move through the tree this way since it is organized
+by number and recursion was used in almost all functions to traverse.
+
+*Details of testing*
+I created a test file and created a structure of node and initialized
+a BST, then inserted several values and printed. I then unit tested my
+other functions, uncommenting each one as I finished working - node count,
+count total, find min, etc. I had the most trouble with the remove function
+as it kept seg faulting, but eventually I figured out my pointers for the most part. I couted tree.each function so that I could check that my values were correct.
+After my test file worked properly, I started compiling and running
+main for further checks.
