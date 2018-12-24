@@ -1,10 +1,7 @@
 Binary Search Trees Project
 
-*Acknowledgements*
-I talked through contains and remove functions with Ryan Weinstein and 
-Amber Chong.
-Main.cpp and print pretty files were given by the Tufts University comp sci
-department.
+Main.cpp and print pretty files were given by the Tufts University
+computer science departments.
 
 *Purpose*
 The purpose of this program is to create a binary search tree and run 
