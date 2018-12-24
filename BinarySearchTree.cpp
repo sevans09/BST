@@ -1,4 +1,4 @@
-/* Sook-Hee Evans
+/* 
  * BinarySearchTree.cpp
  */
 
