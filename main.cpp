@@ -1,4 +1,4 @@
-/* Sook-Hee Evans
+/* 
  * main.cpp
  *
  *  Created on: Oct 13, 2014
