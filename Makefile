@@ -1,7 +1,5 @@
-# Sook-Hee Evans
+# 
 # Makefile for Binary Search Tree
-#
-# Homework 4 (fall 2018)
 #
 # Not using -Wextra
 
