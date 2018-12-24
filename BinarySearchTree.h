@@ -1,4 +1,4 @@
-/* Sook-Hee Evans
+/* 
  * BinarySearchTree.h
  *
  *  Created on: Oct 13, 2014
